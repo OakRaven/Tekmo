@@ -1,0 +1,4 @@
+﻿@import '~/nativescript-theme-core/css/core.light.css';
+Label {
+    margin-bottom: 10;
+}

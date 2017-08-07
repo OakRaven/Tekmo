@@ -1,0 +1,8 @@
+<Page class="page">
+    <StackLayout class="p-20">
+        <Label text="Welcome to the Tekmo App!" />
+        <Button text="About" tap="navigateToAbout" class="btn btn-outline btn-rounded-sm"></Button>
+        <Button text="Contact Us" tap="navigateToContactUs" class="btn btn-outline btn-rounded-sm"></Button>
+        <Button text="Exercise" tap="navigateToExercise" class="btn btn-outline btn-rounded-sm"></Button>
+    </StackLayout>
+</Page>

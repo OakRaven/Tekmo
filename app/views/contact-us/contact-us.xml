@@ -1,0 +1,12 @@
+<Page class="page">
+    <ScrollView>
+        <StackLayout class="p-20">
+            <Label textWrap="true" text="Contact us by submitting a message below." />
+            <Label text="Subject" />
+            <TextField hint="Enter the subject..." />
+            <Label text="Body" />
+            <TextView hint="Enter the message..." />
+            <Button text="Submit" tap="onTap" class="btn btn-outline btn-rounded-sm" />
+        </StackLayout>
+    </ScrollView>
+</Page>
